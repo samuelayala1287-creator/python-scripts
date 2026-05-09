@@ -1,2 +1,3 @@
-frase = '  Aprenda Python   '
-print(len(frase.lstrip()))
+frase = 'Curso em Vídeo Python'
+dividido = frase.split()
+print(dividido[0])
